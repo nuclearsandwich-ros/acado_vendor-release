@@ -1,1 +1,1 @@
-{"base": "5eeb08c", "parent": "debian/rolling/acado_vendor", "previous": "6286ee7", "trim": "", "trimbase": ""}
+{"base": "877aca3", "parent": "debian/humble/acado_vendor", "previous": "ac410e1", "trim": "", "trimbase": ""}
